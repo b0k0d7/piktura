@@ -1,0 +1,9 @@
+@font-face {
+    font-display: swap;
+    font-family: worksans-medium;
+    src: url('../fonts/WorkSans-Medium.ttf');
+}
+
+body{
+    font-family: worksans-medium, serif;
+}
